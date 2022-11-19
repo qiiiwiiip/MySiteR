@@ -31,6 +31,5 @@ def success():
     user = 'КИC-03'
     return user + " Успешная авторизация!"
 
-
 if __name__ == '__main__':
     app.run()
